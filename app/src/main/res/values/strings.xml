@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="icon_heart">&#xf004; Test</string>
+    <string name="slogan">"Making your life sweeter one bite at a time!"</string>
+    <string name="phone">&#xf10b; Call Us: 6942-424242</string>
+    <string name="address">&#xf041; Mosxonision 12, Thessaloniki</string>
+    <string name="hours">&#xf017; Open Everyday 09:00 - 20.30</string>
+</resources>
